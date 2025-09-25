@@ -118,6 +118,7 @@ const Home = () => {
                 description: "Lock funds until retirement with automated, transparent monthly payouts via blockchain technology",
                 color: "from-blue-600 to-green-700"
               },
+              
               {
                 icon: 'Users', // Placeholder
                 title: "Inheritance Planning",
